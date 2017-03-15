@@ -1,0 +1,27 @@
+.canvas-container { 
+	margin: 0 auto;
+	background-color: white;
+	float:left;
+	margin-left: 10%;
+}
+
+body {
+	background-color: rgb(197, 232, 255);
+	font-family: Open Sans,Arial,sans-serif;
+}
+
+.tagline {
+	margin-top:5px;
+	text-align: center;
+}
+
+.mainHeader {
+	margin-bottom:10px;
+	text-align: center;
+}
+
+.tools {
+	display:inline-block;
+	margin-left: 20px;
+}
+
